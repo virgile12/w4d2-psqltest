@@ -9,7 +9,7 @@ module.exports = {
       host : '127.0.0.1',
       user : settings.user,
       password : settings.password,
-      database : settings.password,
+      database : settings.database,
       port: 5432,
       ssl: true
       }
