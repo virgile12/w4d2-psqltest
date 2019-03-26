@@ -1,0 +1,24 @@
+{
+  "name": "w4d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knex_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgile12/w4d2-psqltest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgile12/w4d2-psqltest/issues"
+  },
+  "homepage": "https://github.com/virgile12/w4d2-psqltest#readme",
+  "dependencies": {
+    "knex": "^0.16.3",
+    "pg": "^7.9.0"
+  }
+}
